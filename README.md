@@ -11,7 +11,7 @@ An exploratory data analysis of about seven years of hourly weather observations
 | Source file | `weather_antalya_serik_2017&2023.csv` (**not included in this repository**) |
 | Granularity | One row per hourly observation |
 | Size | 60,240 rows × 32 columns |
-| Period | January 2017 – 16 November 2023 (2023 is a partial year) |
+| Period | February 2017 – 16 November 2023 (2023 is a partial year) |
 | Missing values / duplicates | None |
 
 **Column groups**
